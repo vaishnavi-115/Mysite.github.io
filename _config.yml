@@ -21,7 +21,7 @@ repository               : "https://github.com/vaishnavi-115/Mysite.github.io.gi
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "1234.png"
   name             : "Vaishnavi"
   pronouns         : "she/her"  
   bio              : "Aspiring PM"
