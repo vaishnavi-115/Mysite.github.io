@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<link rel="stylesheet" href="./_styles.css">
 🌟 About Me 
 Hello! I’m Vaishnavi, a passionate and driven MTech student specializing in Product Design and Management at IIIT Hyderabad. With over four years of experience in application development, I’ve developed strong skills in feature innovation, user experience research, and accessibility compliance. I thrive on creating solutions that enhance user satisfaction and system reliability, leveraging Agile methodologies to deliver high-quality projects efficiently.
 
