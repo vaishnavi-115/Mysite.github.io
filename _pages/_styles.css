@@ -1,0 +1,19 @@
+/* style.css */
+h1 {
+  color: #00008B; /* Dark blue for headings */
+}
+
+p {
+  color: #333333; /* Dark gray for paragraph text */
+}
+
+ul {
+  color: #00008B; /* Dark blue list items */
+}
+
+.bold {
+  font-weight: bold;
+  color: #00008B;
+}
+
+/* Add more styles as needed */
